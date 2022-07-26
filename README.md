@@ -6,5 +6,6 @@ My name is Tomasz Klosinski. Welcome to my Github profile.
 
 * DevOps / SRE 👨🏻‍💻
 * Linux Sysadmin 🐧
-* Docker & Kubernetes Enthusiast 🐋 / ⎈  
+* Docker & Kubernetes Enthusiast 🐋 / ⎈
+* Cloud Computing Aficionado ☁️  
 * Python Developer 🐍
