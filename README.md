@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Welcome to my Github profile.
+My name is Tomasz Klosinski. Welcome to my Github profile.
 
-#### About me 👨🏻‍💻
+#### About me
 
-* DevOps / SRE ⚙️
+* DevOps / SRE 👨🏻‍💻
 * Linux Sysadmin 🐧
 * Docker & Kubernetes Enthusiast 🐋 / ⎈  
 * Python Developer 🐍
